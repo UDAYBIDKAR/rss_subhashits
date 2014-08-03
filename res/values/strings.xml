@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Subhashit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="subhashit">
+        <item>This is first subhashit</item>
+        <item>This is second subhashit</item>
+        <item>This is third subhashit</item>
+        <item>This is forth subhashit</item>
+        <item>This is fifth subhashit</item>
+    </string-array>
+	<string name="prev">Prev</string>
+	<string name="next">Next</string>
+</resources>
